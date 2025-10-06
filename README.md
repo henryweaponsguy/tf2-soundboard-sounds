@@ -6,4 +6,4 @@ Sounds for the [soundboard script](https://github.com/henryweaponsguy/tf2-textch
 
 ### Credits
 
-All sound files are the intellectual property of Valve Corporation
+All sound files are the intellectual property of their respective owners
